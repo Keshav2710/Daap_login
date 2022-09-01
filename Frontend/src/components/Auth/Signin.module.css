@@ -1,0 +1,14 @@
+.main{
+    height: 100vh;
+    background-image: linear-gradient(to right, purple, rgb(140, 0, 255));
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    
+}
+.card{
+    margin-top: 10vh;
+    width: 60%;
+}
